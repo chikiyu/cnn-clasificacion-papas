@@ -28,11 +28,11 @@ Todas fueron entrenadas sobre un dataset de imágenes de papas en resolución **
   - Volteo horizontal aleatorio
 - Esto permitió **ampliar cada clase a 300 imágenes**, mejorando la generalización y el balance del conjunto.
 - El dataset está documentado y descrito en detalle en el paper incluido.
+- Dataset completo disponible en: [aprendizajeautomatico-entrega2](https://github.com/aprendizajeautomatico-entrega2/2DAENTREGAAPRENDIZAJEAUTOMATICO)
 
 ## 📁 Contenido del repositorio
 
 - `/notebooks/`: Código en Google Colab para entrenamiento y evaluación
-- `/dataset/`: Imágenes preprocesadas y aumentadas de las 83 variedades de papa
 - `paper_clasificacion_papas_Deep_Learning.pdf`: Artículo completo del estudio
 
 ## ⚙️ Tecnologías utilizadas
@@ -48,9 +48,15 @@ Todas fueron entrenadas sobre un dataset de imágenes de papas en resolución **
 - Métricas: *Accuracy*, *Cross-Entropy Loss*, tiempo por época
 - Callbacks: `EarlyStopping`, `ReduceLROnPlateau`, `ModelCheckpoint`
 
+## 🚀 Demo
+
+> App de clasificación en desarrollo — subí una foto de una papa y el modelo te dice a qué variedad pertenece.
+> Coming soon via Hugging Face Spaces.
+
 ## 🔗 Enlaces
 
-- [Repositorio del Dataset y Código](https://github.com/aprendizajeautomatico-entrega2/2DAENTREGAAPRENDIZAJEAUTOMATICO)
+- [Notebook en Google Colab](https://colab.research.google.com/drive/1gGqM95LBlvfyLEpcrEUFAG0vl9yIDJN4?usp=sharing)
+- [Dataset completo](https://github.com/aprendizajeautomatico-entrega2/2DAENTREGAAPRENDIZAJEAUTOMATICO)
 
 ## 📜 Cita
 
