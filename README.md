@@ -50,8 +50,9 @@ Todas fueron entrenadas sobre un dataset de imágenes de papas en resolución **
 
 ## 🚀 Demo
 
-> App de clasificación en desarrollo — subí una foto de una papa y el modelo te dice a qué variedad pertenece.
-> Coming soon via Hugging Face Spaces.
+**[→ Probá la app en vivo](https://huggingface.co/spaces/ayayon/clasificador-papas-nativas)**
+
+Subí una foto de una papa nativa peruana y el modelo te dice a qué variedad pertenece. Funciona desde el navegador, incluyendo cámara en celular.
 
 ## 🔗 Enlaces
 
