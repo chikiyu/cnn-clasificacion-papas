@@ -56,8 +56,8 @@ Subí una foto de una papa nativa peruana y el modelo te dice a qué variedad pe
 
 ## 🔗 Enlaces
 
-- [Notebook en Google Colab](https://colab.research.google.com/drive/1gGqM95LBlvfyLEpcrEUFAG0vl9yIDJN4?usp=sharing)
-- [Dataset completo](https://github.com/aprendizajeautomatico-entrega2/2DAENTREGAAPRENDIZAJEAUTOMATICO)
+- [Notebook en Google Colab](https://colab.research.google.com/github/chikiyu/cnn-clasificacion-papas/blob/main/notebooks/Modelos_clasificacion_papas_Deep_Learning.ipynb)
+- [Dataset en HuggingFace](https://huggingface.co/datasets/ayayon/papas-nativas-peru-83-variedades)
 
 ## 📜 Cita
 
