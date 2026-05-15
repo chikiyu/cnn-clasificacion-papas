@@ -28,7 +28,7 @@ Todas fueron entrenadas sobre un dataset de imágenes de papas en resolución **
   - Volteo horizontal aleatorio
 - Esto permitió **ampliar cada clase a 300 imágenes**, mejorando la generalización y el balance del conjunto.
 - El dataset está documentado y descrito en detalle en el paper incluido.
-- Dataset completo disponible en: [aprendizajeautomatico-entrega2](https://github.com/aprendizajeautomatico-entrega2/2DAENTREGAAPRENDIZAJEAUTOMATICO)
+- Dataset completo disponible en: [HuggingFace — chikiyu/papas-nativas-peru-83-variedades](https://huggingface.co/datasets/chikiyu/papas-nativas-peru-83-variedades)
 
 ## 📁 Contenido del repositorio
 
